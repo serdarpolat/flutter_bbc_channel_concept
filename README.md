@@ -1,10 +1,8 @@
 # bbc_concept
 
-A new Flutter project.
+## Result
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+https://youtu.be/YGQvQ3_T3II
 
 A few resources to get you started if this is your first Flutter project:
 
